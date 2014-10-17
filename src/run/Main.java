@@ -182,6 +182,7 @@ public class Main{
 						}}
 				).body;
 				
+				p(tranjson);
 				List objson = new Gson().fromJson(tranjson,  new TypeToken<List>() {}.getType());
 				List words  = (List) (objson.get(0));
 				for (ListIterator<List> itr = words.listIterator(); itr.hasNext(); ) {

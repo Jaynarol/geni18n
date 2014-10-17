@@ -3,8 +3,8 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry including="**/**/jhttp/*|**/mcry*|**/my.java|**/smtp*" kind="src" path="nova-s"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="D:/Java/External/lib/jodd/jodd-3.5.2.jar"/>
 	<classpathentry kind="lib" path="D:/Java/External/lib/gson-2.2.4.jar"/>
 	<classpathentry kind="lib" path="D:/Java/External/lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="D:/Java/External/lib/jodd/jodd-3.6.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
